@@ -1,3 +1,47 @@
-### 阅读vuepress文档的记录
-- VuePress 带有内置的 基于 header 搜索(headers-based search) 的功能 - 它会自动从所有页面的 title, h2 和 h3 header 标签中，建立一个简单的搜索索引。即页面右上角那个搜索框。
-- 默认主题。允许自定义导航栏(navbar)、侧边栏(sidebar)和主页(homepage)等。详细信息可查看 [默认主题配置](http://caibaojian.com/vuepress/default-theme-config/) 页面。也可以[自定义主题](http://caibaojian.com/vuepress/guide/custom-themes.html)。
+---
+home: true
+heroImage: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547454049593&di=8326d03ba2207a95d178373a7bc2c4c8&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3Dcad2c71522381f308a1485eac168267d%2Fe824b899a9014c083afbdd88007b02087af4f4df.jpg
+footer: djlun | 创建于2019年1月11日
+---
+<div class="features">
+  <div class="feature">
+    <h2>vuepress阅读记录</h2>
+    <p>此文档使用vuepress快速构建，编写属于自己的个人技术文档，用于日常快速查找、基础巩固及学习记录。</p>
+  </div>
+  <div class="feature">
+    <h2>js文档</h2>
+    <p>对各个数据类型的数据的属性和方法的总结，方便查找。</p>
+  </div>
+  <div class="feature">
+    <h2>css黑魔法</h2>
+    <p>记录一些css的骚操作，以及自己实现的一些css技巧。</p>
+  </div>
+<!-- </div>
+<div class="features"> -->
+  <div class="feature">
+    <h2>html语义化</h2>
+    <p>记录每个html标签的语义，在开发中尽量保证代码的语义话。</p>
+  </div>
+  <div class="feature">
+    <h2>todo</h2>
+    <p>记录一时想做的事。</p>
+  </div>
+  <div class="feature">
+    <h2>个人简历</h2>
+    <p>记录自己编写个人简历的过程。</p>
+  </div>
+<!-- </div>
+<div class="features"> -->
+  <div class="feature">
+    <h2>代码片段</h2>
+    <p>记录自己写的一些demo。</p>
+  </div>
+  <div class="feature">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="feature">
+    <h2></h2>
+    <p></p>
+  </div>
+</div>
