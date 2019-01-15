@@ -3,13 +3,14 @@ module.exports = {
   description: ' ',
   themeConfig: {
     nav: [
-      { text: 'vuepress阅读记录', link: '/vpress/' },
+      { text: 'vuepress', link: '/vpress/' },
       { text: 'js文档', link: '/jsdoc/' },
       { text: 'css黑魔法', link: '/cssdoc/' },
       { text: 'html语义化', link: '/htmldoc/' },
       { text: 'todo', link: '/todo/' },
       { text: '个人简历', link: '/resume/' },
       { text: '代码片段', link: '/code/' },
+      { text: 'md语法', link: '/mdgram/' },
       { text: 'github', link: 'https://github.com/djl57/start-vuepress' },
     ],
     sidebar: {
@@ -21,7 +22,9 @@ module.exports = {
         'object',
         'null',
         'undefined',
+        'bibao'
       ],
-    }
+    },
+    sidebarDepth: 2
   }
 }
