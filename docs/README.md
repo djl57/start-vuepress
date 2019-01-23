@@ -21,8 +21,8 @@ footer: djlun | 创建于2019年1月11日
     <p>记录每个html标签的语义，在开发中尽量保证代码的语义化。</p>
   </div>
   <div class="feature">
-    <h2>todo</h2>
-    <p>记录一些想做的事。</p>
+    <h2>do</h2>
+    <p>已完成和未完成的事。</p>
   </div>
   <div class="feature">
     <h2>个人简历</h2>
