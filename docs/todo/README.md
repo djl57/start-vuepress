@@ -5,8 +5,8 @@ sidebar: auto
 ## 未完成
 
 - 使用vuepress的自定义配置写一个更美观一点的个人博客。
-- 完成Object,promise,regexp,async的文档编写()
-- object的文档编写好之后，进行es6的文档编写
+- 完成regexp的文档编写()
+- 进行es6的文档编写
 - 做一个简单的需要登陆的todo list，先做一个静态页面（pc端使用element、移动端使用mint-ui），再用nodejs和mongodb试试
   |功能 |描述|
   |:--:|:--:|
@@ -30,3 +30,4 @@ sidebar: auto
 - 2019年1月21日，完成对Array对象的收尾，完成一半Object的编写
 - 2019年1月22日，完成Object的初步了解，重新了解了一下运算符(关于[es6的运算符](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/yield)还是不是很了解)
 - 2019年1月23日，完成promise的初步了解（最好将阮一峰ES6中的所有例子放一个地方）
+- 2019年1月24日，完成async的初步了解
