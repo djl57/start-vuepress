@@ -7,7 +7,7 @@ module.exports = {
       { text: 'js文档', link: '/jsdoc/' },
       // { text: 'css黑魔法', link: '/cssdoc/' },
       // { text: 'html语义化', link: '/htmldoc/' },
-      { text: 'do', link: '/todo/' },
+      // { text: 'do', link: '/todo/' },
       // { text: '个人简历', link: '/resume/' },
       { text: 'vue学习记录', link: '/code/' },
       { text: 'md语法', link: '/mdgram/' },
